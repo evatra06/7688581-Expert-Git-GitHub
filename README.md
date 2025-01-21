@@ -17,7 +17,7 @@ Voici les étapes à suivre pour configurer un environnement de développement e
 
 
 ## Exécution des tests
-
+faire l'exececution des test 
 
 ## Déploiement
 
