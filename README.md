@@ -1,61 +1,37 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web de covoiturage.
 
-## Getting Started
+## Introduction
 
-Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
+Cette application permet de faciliter le covoiturage en permettant à ses utilisateurs de proposer ou de rejoindre des trajets. Ce guide décrit comment exécuter une copie locale du projet pour le développement et les tests. Pour la mise en production, référez-vous à la section "Déploiement".
 
-### Pré-requis
+### Prérequis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Avant de pouvoir exécuter le projet Open Transport en local, vous devez installer les outils suivants :
 
-```
-A définir
-
-```
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour configurer un environnement de développement et de test opérationnel :
 
 
-```
-A définir
-```
+## Exécution des tests
 
 
+## Déploiement
 
-## Executer les tests
-
-```
-A définir : expliquer comment executer les tests
-```
+Pour déployer le projet en production, suivez ces étapes :
 
 
-## Deployment
+## Technologies utilisées
 
-Voici les étapes à suivre pour déployer en production :
-
-```
-A définir
-```
-
-## Technologies :
-
-* HTML5/CSS3
-* [Boostrap](https://getbootstrap.com/)
+* HTML5 / CSS3
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Contribution
 
-Merci de lire les fichiers :
+Merci de lire les fichiers suivants pour contribuer à ce projet :
+
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
-
-## Auteurs
-
-* **Non spécifié**
-
-## License
-
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CODE_OF_CONDUCT.md)
